@@ -1,2 +1,6 @@
 # sentiment-analysis_using_nlp
-sentiment-analysis-keras using nlp algorithms
+
+
+### movie review dataset. NLP tasks Sentiment Analysis. 
+
+###### link dataset : https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format
